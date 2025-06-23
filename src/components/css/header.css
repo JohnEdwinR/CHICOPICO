@@ -1,0 +1,38 @@
+.styled-input {
+    padding: 10px;
+    border-radius: 25px;
+    border: 2px solid #d0d0d0;
+    width: 100%;
+    max-width: 400px;
+    margin: 10px 0;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    font-size: 16px;
+    outline: none;
+  }
+  
+  .styled-input:focus {
+    border-color: #042e6f;
+  }
+  
+  .btn-custom {
+    border-radius: 25px;
+  }
+  
+  .results {
+    padding: 20px;
+  }
+  
+  .results h2,
+  .results h3 {
+    margin: 10px 0;
+  }
+  
+  .results ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .results li {
+    padding: 5px 0;
+  }
+  
